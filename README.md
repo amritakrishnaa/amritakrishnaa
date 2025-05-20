@@ -32,6 +32,9 @@ Hi! I'm Amritha Krishna, a Class 10 student at Kendriya Vidyalaya with a deep in
 - 🧰 Scratch programming
 - 📄 MS Office / Google Docs
 
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=amrithakrishna.visitor-badge&left_color=purple&right_color=blue)
+
 ---
 
 ## ✨ What I'm Working On:
@@ -39,14 +42,6 @@ Hi! I'm Amritha Krishna, a Class 10 student at Kendriya Vidyalaya with a deep in
 - Creating my first personal webpage
 - Organizing notes and code using GitHub
 
----
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=amrithakrishna.visitor-badge&left_color=purple&right_color=blue" alt="Visitor badge" />
-</p>
-
-
-
----
 
 > “Success is the sum of small efforts, repeated day in and day out.” – Robert Collier
 
