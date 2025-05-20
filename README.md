@@ -40,10 +40,11 @@ Hi! I'm Amritha Krishna, a Class 10 student at Kendriya Vidyalaya with a deep in
 - Organizing notes and code using GitHub
 
 ---
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=amrithakrishna.visitor-badge&left_color=purple&right_color=blue" alt="Visitor badge" />
+</p>
 
-## 📫 How to Reach Me:
-- Email: **amritha.student10@gmail.com**
-- School: **Kendriya Vidyalaya [Your Branch Name]**
+
 
 ---
 
