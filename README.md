@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to Amritha's Quest 🌟</h1>
 
 <p align="center">
-  🧙‍♀️ <b>You are Amritha, the Brave Coder!</b><br>
+  🧙‍♀️ <b>The Brave Coder!</b><br>
   Embark on a journey through the lands of Codevania, conquer bugs 🐞, and collect stars ⭐ to become a GitHub Legend!<br>
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
 </p>
