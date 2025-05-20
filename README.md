@@ -1,46 +1,34 @@
-# 👋 Hello! I'm Amritha Krishna
+<h1 align="center">🌟 Welcome to Amritha's Quest 🌟</h1>
 
-🎓 Class 10 Student | 🏫 Kendriya Vidyalaya | 💡 Learning, Exploring & Creating
-
----
-
-## 👩‍💻 About Me
-
-Hi! I'm Amritha Krishna, a Class 10 student at Kendriya Vidyalaya with a deep interest in science, technology, and creative projects. I'm passionate about learning new things every day — whether it's solving math problems, building school projects, or exploring how websites and apps work!
+<p align="center">
+  🧙‍♀️ <b>You are Amritha, the Brave Coder!</b><br>
+  Embark on a journey through the lands of Codevania, conquer bugs 🐞, and collect stars ⭐ to become a GitHub Legend!<br>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 🌱 I’m Currently Learning:
-- Basic Python programming 🐍
-- HTML, CSS, and Web Design 🌐
-- Science project research 🧪
-- Git & GitHub basics 📁
+### 🎮 Choose Your Path:
+
+- 🏰 [Enter the Castle of HTML](https://www.w3schools.com/html/)
+- 🔥 [Fight the CSS Dragon](https://cssbattle.dev/)
+- 🧠 [Solve the Riddle of JavaScript](https://www.javascript.com/)
+- 💎 [Claim the Python Treasure](https://replit.com/~)
 
 ---
 
-## 📚 School Projects & Interests:
-- 💡 Science experiments and models  
-- 🎨 Creative posters and presentations  
-- 📖 Reading mystery novels and biographies  
-- 🗣️ Participating in debates and quizzes
+### 💼 Your Inventory:
+
+| Skill        | Level |
+|--------------|--------|
+| 🧠 Logic      | ⭐⭐⭐⭐☆ |
+| 🎨 Design     | ⭐⭐⭐☆☆ |
+| 🧪 Science     | ⭐⭐⭐⭐☆ |
+| 📚 Curiosity | ⭐⭐⭐⭐⭐ |
 
 ---
 
-## 🔧 Tools & Technologies:
-- 🧑‍💻 Python (beginner)
-- 🕸️ HTML & CSS
-- 🧰 Scratch programming
-- 📄 MS Office / Google Docs
-
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amrithakrishna&count_bg=%237A7A7A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
-
-## ✨ What I'm Working On:
-- A science project on **Consumer Awareness**
-- Creating my first personal webpage
-- Organizing notes and code using GitHub
-
-
-> “Success is the sum of small efforts, repeated day in and day out.” – Robert Collier
-
-Thanks for visiting my profile! 😊
+<p align="center">
+  🏆 Keep learning, brave coder!<br>
+  💬 Say hi on [email](mailto:amritha.student10@gmail.com) or [Replit](https://replit.com/)  
+</p>
