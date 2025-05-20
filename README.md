@@ -32,10 +32,8 @@ Hi! I'm Amritha Krishna, a Class 10 student at Kendriya Vidyalaya with a deep in
 - 🧰 Scratch programming
 - 📄 MS Office / Google Docs
 
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/amrithakrishna&count_bg=%237A7A7A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=amrithakrishna.visitor-badge&left_color=purple&right_color=blue)
-
----
 
 ## ✨ What I'm Working On:
 - A science project on **Consumer Awareness**
